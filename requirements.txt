@@ -1,0 +1,10 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+scikit-learn>=1.4.0
+pydantic>=2.7.0
+python-multipart
+pdfplumber
+
+git remote add origin https://github.com/username/repo-name.git
+git branch -M main
+git push -u origin main
